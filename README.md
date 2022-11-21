@@ -2,7 +2,10 @@
 I am mohui666(默绘)，this is my Github.
 I want to be a game maker.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohui666&show_icons=true&theme=gotham" alt="mohui666" />
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohui666&show_icons=true&theme=gotham" alt="mohui666"/>
 
   
   
