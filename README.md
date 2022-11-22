@@ -9,7 +9,7 @@ I want to be a game maker.<br>
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 ![Unity](https://img.shields.io/badge/-Unity-grey?style=plastic&logo=unity)
 ![C#](https://img.shields.io/badge/-CSharp-green?style=plastic&logo=csharp)
-![HTML](https://img.shields.io/badge/-HTML-orange?style=plastic&logo=html)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=plastic&logo=h5)
 <br>
 **My Github Stats:** <br>
 ![MoHui's github stats](https://github-readme-stats.vercel.app/api?username=mohui666&show_icons=true&theme=dracula)<br>
