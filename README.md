@@ -11,7 +11,8 @@ I want to be a game maker.<br>
 ![Unity](https://img.shields.io/badge/-C++-blue?style=plastic&logo=c++)
 ![C++](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![C#](https://img.shields.io/badge/-CSharp-green?style=plastic&logo=csharp)
-![HTML](https://img.shields.io/badge/-HTML-orange?style=plastic&logo=html5)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript)
 <br>
 **My Github Stats:** <br>
