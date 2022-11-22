@@ -8,7 +8,7 @@ I want to be a game maker.<br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 
 **My Github Stats:** 
-![MoHui's github stats](https://github-readme-stats.vercel.app/api?username=mohui666&show_icons=true&theme=dracula&hide=stars,issues)
+![MoHui's github stats](https://github-readme-stats.vercel.app/api?username=mohui666&show_icons=true&theme=dracula)
   
 **Visitor Count:** 
 <img src="https://profile-counter.glitch.me/mohui666/count.svg" />
