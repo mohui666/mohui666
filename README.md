@@ -8,7 +8,8 @@ I want to be a game maker.<br>
 ![Github](https://img.shields.io/badge/-Github-black?style=plastic&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 ![Unity](https://img.shields.io/badge/-Unity-grey?style=plastic&logo=unity)
-![C#](https://img.shields.io/badge/-Csharp-green?style=plastic&logo=csharp)
+![C#](https://img.shields.io/badge/-C#-green?style=plastic&logo=csharp)
+<br>
 **My Github Stats:** <br>
 ![MoHui's github stats](https://github-readme-stats.vercel.app/api?username=mohui666&show_icons=true&theme=dracula)<br>
 **Most Use Language**<br>
