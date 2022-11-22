@@ -7,7 +7,7 @@ I want to be a game maker.<br>
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![Github](https://img.shields.io/badge/-Github-black?style=plastic&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-![VS](https://img.shields.io/badge/-VisualStudio-purple?style=plastic&logo=visual studio)
+![VS](https://img.shields.io/badge/-VisualStudio-purple?style=plastic&logo=visual-studio)
 ![Unity](https://img.shields.io/badge/-Unity-grey?style=plastic&logo=unity)
 ![C#](https://img.shields.io/badge/-CSharp-green?style=plastic&logo=csharp)
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=plastic&logo=html5)
