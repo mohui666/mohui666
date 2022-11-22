@@ -12,6 +12,7 @@ I want to be a game maker.<br>
 ![C#](https://img.shields.io/badge/-CSharp-green?style=plastic&logo=csharp)
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=plastic&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+![CSS](https://img.shields.io/badge/-CSS-black?style=plastic&logo=css)
 <br>
 **My Github Stats:** <br>
 ![MoHui's github stats](https://github-readme-stats.vercel.app/api?username=mohui666&show_icons=true&theme=dracula)<br>
