@@ -1,20 +1,51 @@
-## Hi there 👋
-I am mohui666(默绘)，this is my Github.<br>
-I want to be a game maker.<br>
-<div align="center"> <img src="https://metrics.lecoq.io/mohui666?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center">
 
-**languages and tools:** <br>
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-![Github](https://img.shields.io/badge/-Github-black?style=plastic&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-![VS](https://img.shields.io/badge/-VisualStudio-purple?style=plastic&logo=visual-studio)
-![Unity](https://img.shields.io/badge/-C++-blue?style=plastic&logo=c++)
-![C++](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-![C#](https://img.shields.io/badge/-CSharp-green?style=plastic&logo=csharp)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-<br>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+
+</div>  
+
+  
+
+### <div align="center">I'm mohui666</div>  
+
+  
+
+- 🔭 I’m currently studying in JiNing NO.1 High School   
+
+  
+
+- 🌱 I’m currently learning C# and Unity  
+
+  
+
+<br/>  
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+### Frontend  
+<div align="center">  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
+</div>
+</td><td valign="top" width="33%">
+</td><td valign="top" width="33%">
+</td></tr></table>  
+<br/>  
+## Connect with me  
+<div align="center">
+<a href="https://github.com/mohui666" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/mohui13" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+</div>  
+<br/>  
+
 **My Github Stats:** <br>
 ![MoHui's github stats](https://github-readme-stats.vercel.app/api?username=mohui666&show_icons=true&theme=dracula)<br>
 **Most Used Language**<br>
