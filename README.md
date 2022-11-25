@@ -18,7 +18,15 @@
 
   
 
-<br/>  
+<br/>
+
+## My Github Stats: <br>
+
+![MoHui's github stats](https://github-readme-stats.vercel.app/api?username=mohui666&show_icons=true&theme=dracula)<br>
+
+**Most Used Language**<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohui666&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 ## My Skill Set   
 <div align="center">  
