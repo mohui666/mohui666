@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+You are my <img src="https://profile-counter.glitch.me/mohui666/count.svg" /> visitors.
 
 </div>  
 
@@ -20,11 +21,11 @@
 
 <br/>
 
-## My Github Stats: <br>
+## My Github Stats:
 
 ![MoHui's github stats](https://github-readme-stats.vercel.app/api?username=mohui666&show_icons=true&theme=dracula)<br>
 
-**Most Used Language**<br>
+## Most Used Language:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohui666&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 
@@ -49,10 +50,3 @@
 </a>  
 </div>  
 <br/>  
-
-**My Github Stats:** <br>
-![MoHui's github stats](https://github-readme-stats.vercel.app/api?username=mohui666&show_icons=true&theme=dracula)<br>
-**Most Used Language**<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohui666&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
-**Visitor Count:** <br>
-<img src="https://profile-counter.glitch.me/mohui666/count.svg" />
